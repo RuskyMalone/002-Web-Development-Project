@@ -1,0 +1,25 @@
+nav {
+  background: #4C90B6;
+  margin-left: -10px;
+  overflow: hidden;
+}
+
+nav a{
+  padding: 16px 15px;
+  text-align: center;
+  color: #000;
+  font-size: 1.5em;
+  display: block;
+  float: right;
+}
+
+nav a:hover{
+  background: #ddd;
+  color: blue;
+}
+
+nav p {
+  float:left;
+  font-size: 1.5em;
+  margin-left: 15px;
+}
